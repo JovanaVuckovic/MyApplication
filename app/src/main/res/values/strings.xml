@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="screen_1">My Tracks</string>
+    <string name="screen_2">New Track</string>
+    <string name="screen_3">Add Location</string>
+    <string name="screen_4">Track Details</string>
+    <string name="screen_5">Settings</string>
+    <string name="zeroTracksDisplay">No tracks available for list.</string>
+    <string name="done">Done</string>
 </resources>
